@@ -43,7 +43,7 @@ I enjoy building practical applications that combine software engineering with A
 
 ## Connect With Me
 
-* 🔗[LinkedIn](https://www.linkedin.com/in/rishabhrajput15/)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rishabhrajput15/)
 * Portfolio (Coming Soon)
 
 Always learning, building, and exploring new ideas in AI and software development.
