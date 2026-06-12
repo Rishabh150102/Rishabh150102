@@ -43,8 +43,7 @@ I enjoy building practical applications that combine software engineering with A
 
 ## Connect With Me
 
-* ![LinkedIn](https://www.linkedin.com/in/rishabhrajput15/)
-* ![GitHub](https://github.com/Rishabh150102/)
+* 🔗[LinkedIn](https://www.linkedin.com/in/rishabhrajput15/)
 * Portfolio (Coming Soon)
 
 Always learning, building, and exploring new ideas in AI and software development.
