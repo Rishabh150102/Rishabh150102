@@ -2,7 +2,7 @@
 
 ### Survey Programmer | AI & Machine Learning Enthusiast
 
-I'm a software professional with 1.5+ years of experience in Survey Programming, currently expanding my expertise in Artificial Intelligence, Machine Learning, and Generative AI.
+I'm a software professional with 2+ years of experience in Survey Programming, currently expanding my expertise in Artificial Intelligence, Machine Learning, and Generative AI.
 
 I enjoy building practical applications that combine software engineering with AI capabilities, including Retrieval-Augmented Generation (RAG), conversational AI, multi-agent systems, and automation workflows.
 
